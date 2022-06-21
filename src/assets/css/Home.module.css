@@ -1,0 +1,12 @@
+.bgimage {
+    background-image: url('../img/bg.jpeg');
+    height: 95vh;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bgimage h2 {
+    font-size: calc(5em + 1vw);
+}

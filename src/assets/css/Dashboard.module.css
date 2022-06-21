@@ -1,0 +1,16 @@
+.bgimage {
+    background-image: url('../img/dashboard.jpg');
+    height: 95vh;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgimage h2 {
+    font-size: calc(5em + 1vw);
+}

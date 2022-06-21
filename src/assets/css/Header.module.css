@@ -1,0 +1,32 @@
+.navContainer {
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.navBg {
+    background: #e5e3e3 !important;
+}
+
+.activeMenu {
+    border-bottom: 5px solid #acd;
+    margin: 0px 10px;
+}
+
+.activeMenu,
+.inActiveMenu {
+    text-decoration: none;
+    margin: 0px 10px;
+    color: #000;
+}
+
+
+@media screen and (max-width:768px) {
+    .navBg {
+        width: 100% !important;
+    }
+
+
+    .navContainer {
+        display: block !important;
+    }
+}

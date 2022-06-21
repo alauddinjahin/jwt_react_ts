@@ -1,0 +1,9 @@
+.footerContainer {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.FooterBg {
+    bottom: 0;
+    background: #bdb8b8 !important;
+}

@@ -1,0 +1,36 @@
+.loginWrap {
+    width: 350px;
+    height: auto;
+    margin: 0 auto;
+    border: 1px solid rgb(156, 235, 238);
+    margin-top: 100px;
+    background-color: #fff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 5px;
+    padding: 10px 10px 20px 10px;
+}
+
+.FormFooter {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    height: 30px;
+    padding: 0px 10px;
+}
+
+.BackBtn {
+    text-decoration: none;
+    font-size: 0.8rem;
+    background-color: rgb(190, 0, 0);
+    padding: 2px 8px;
+    color: #fff;
+    border-radius: 5px;
+}
+.NextBtn {
+    text-decoration: none;
+    font-size: 0.8rem;
+    background-color: rgb(16, 184, 1);
+    padding: 2px 8px;
+    color: #fff;
+    border-radius: 5px;
+}
